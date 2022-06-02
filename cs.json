@@ -76,7 +76,7 @@
 {"key":"ikan_spider","name":"🐱爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq_spider","name":"🐱美剧星球(SP)","type":3,"api":"csp_MjxqApp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"auete_spider","name":"🐱Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/YuanHsing/OneClickRun/master/MaooXP/Auete.bmp"},
-{"key":"buka_spider","name":"🐱真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/YuanHsing/OneClickRun/master/MaooXP/buka.json"},
+{"key":"buka_spider","name":"🐱真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/YuanHsing/OneClickRun/master/MaooXP/zhenbuka.bmp"},
 {"key":"ftys_spider","name":"🐱饭团(SP)","type":3,"api":"csp_Ftys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/YuanHsing/OneClickRun/master/MaooXP/fantuan2.json"},
 {"key":"优酷视频会员(官源)","name":"优酷视频会员(官源)","type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"畅视影视","name":"首页2022年2月7日精简接口如果资源不可用，请切换“首页数据源”或切换网络","type":1,"api":"http://app.reboju.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
