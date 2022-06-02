@@ -375,8 +375,8 @@
 {"key":"csp_appysv2_杨桃","name":"杨桃(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ytys3456.com/mogai_api.php/v1.vod"},
 #
 #优质
-{“key”：“csp_appysv2_钟特影视”，“name”：“钟特影视（优）”，“type”：3，“api”：“csp_AppYsV2”，“searchable”：1，“quickSearch”：1，“filterable”：1，“ext”：“https://app.zteys.com/api.php/v1.vod”}，
-{"key":"csp_appysv2_M2_躺平","name":"躺平(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.lltpys.com/api.php/app/"},
+//{“key”：“csp_appysv2_钟特影视”，“name”：“钟特影视（优）”，“type”：3，“api”：“csp_AppYsV2”，“searchable”：1，“quickSearch”：1，“filterable”：1，“ext”：“https://app.zteys.com/api.php/v1.vod”}，
+{"key":"csp_appysv2_M2_躺平影视","name":"躺平影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.lltpys.com/api.php/app/"},
 {"key":"csp_appysv2_影阅阁","name":"影阅阁(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://221.236.18.12:665/api.php/v1.vod"},
 //{"key":"csp_appysv2_优视影视","name":"优视影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.ysys.asia/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_影视大全","name":"影视大全(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.okmedcos.com/api.php/v1.vod"},
