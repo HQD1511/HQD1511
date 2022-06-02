@@ -76,9 +76,9 @@
 {"key":"sd_spider","name":"🐱闪电(SP)","type":3,"api":"csp_Sd","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"ikan_spider","name":"🐱爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq_spider","name":"🐱美剧星球(SP)","type":3,"api":"csp_MjxqApp","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"auete_spider","name":"🐱Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/Auete.bmp"},
-{"key":"buka_spider","name":"🐱真不卡(SP)","type":3,"api":"csp_Buka","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/zhenbuka.bmp"},
-{"key":"ftys_spider","name":"🐱饭团(SP)","type":3,"api":"csp_Ftys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/fantuan.bmp"},
+{"key":"auete_spider","name":"🐱Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/YuanHsing/OneClickRun/master/MaooXP/Auete.bmp"},
+{"key":"buka_spider","name":"🐱真不卡(SP)","type":3,"api":"csp_Buka","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/YuanHsing/OneClickRun/master/MaooXP/buka.json"},
+{"key":"ftys_spider","name":"🐱饭团(SP)","type":3,"api":"csp_Ftys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/YuanHsing/OneClickRun/master/MaooXP/fantuan2.json"},
 {"key":"优酷视频会员(官源)","name":"优酷视频会员(官源)","type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"畅视影视","name":"首页2022年2月7日精简接口如果资源不可用，请切换“首页数据源”或切换网络","type":1,"api":"http://app.reboju.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {
@@ -375,6 +375,7 @@
 {"key":"csp_appysv2_杨桃","name":"杨桃(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ytys3456.com/mogai_api.php/v1.vod"},
 #
 #优质
+{“key”：“csp_appysv2_M2_躺平影视”，“name”：“躺平影视_M2”，“type”：3，“api”：“csp_AppYsV2”，“searchable”：1，“quickSearch”：1，“filterable”：1，“ext”：“http://www.lltpys.com/api.php/app/”}，
 {"key":"csp_appysv2_钟特影视","name":"钟特影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.zteys.com/api.php/v1.vod"},
 {"key":"csp_appysv2_影阅阁","name":"影阅阁(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://221.236.18.12:665/api.php/v1.vod"},
 //{"key":"csp_appysv2_优视影视","name":"优视影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.ysys.asia/lvdou_api.php/v1.vod"},
