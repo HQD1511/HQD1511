@@ -15,13 +15,12 @@
 # 直播 (择一使用👇)
 ## 01.🦋直播
 ## --> spider 改 baikan.jar 或 custom_spider.jar
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL1l1YW5Ic2luZy9PbmVDbGlja1J1bkBtYXN0ZXIveHBhdGgvbGl2ZS50eHQ="]}]}],
-//
+//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL1l1YW5Ic2luZy9PbmVDbGlja1J1bkBtYXN0ZXIveHBhdGgvbGl2ZS50eHQ="]}]}],
 ## 02.🦋直播
 ## --> spider 改 xm.jar
 ## --> 使用 "02.🐉明接口"时,直播要改成 "02.🦋直播 ", 适配 "🐉设置直播为首页" 这个功能)
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
-//
+//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
+“lives”：[{“group”：“redirect”，“channels”：[{“name”：“live”，“urls”：[“proxy：//do=live&type=txt&ext=aHR0cDovLzgxLjcwLjc3LjU6NzgwMC90di8=”]}]}],
 //
 "sites":[
 ## 01.🐼缝合接口
@@ -375,7 +374,7 @@
 {"key":"csp_appysv2_杨桃","name":"杨桃(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ytys3456.com/mogai_api.php/v1.vod"},
 #
 #优质
-//{“key”：“csp_appysv2_M2_躺平影视”，“name”：“躺平影视_M2”，“type”：3，“api”：“csp_AppYsV2”，“searchable”：1，“quickSearch”：1，“filterable”：1，“ext”：“http://www.lltpys.com/api.php/app/”}，
+{“key”：“csp_appysv2_M2_躺平影视”，“name”：“躺平影视_M2”，“type”：3，“api”：“csp_AppYsV2”，“searchable”：1，“quickSearch”：1，“filterable”：1，“ext”：“http://www.lltpys.com/api.php/v1.vod”},
 {"key":"csp_appysv2_钟特影视","name":"钟特影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.zteys.com/api.php/v1.vod"},
 {"key":"csp_appysv2_影阅阁","name":"影阅阁(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://221.236.18.12:665/api.php/v1.vod"},
 //{"key":"csp_appysv2_优视影视","name":"优视影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.ysys.asia/lvdou_api.php/v1.vod"},
