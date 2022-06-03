@@ -1,5 +1,6 @@
 {
 "spider":"https://raw.iqiq.io/HQD1511/HQD1511/main/20220603cs1.jar",
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
 "sites": [    
 {
       "key": "M3U8TV",
@@ -1415,7 +1416,6 @@
       "categories": []
     }
   ],
-“lives”：[{“group”：“redirect”，“channel”：[{“name”：“live”，“urls”：[“proxy：//do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0”]}]}]，
  "parses": [
 {
     "name": "Json并发",
