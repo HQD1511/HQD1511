@@ -1,5 +1,5 @@
 {
-"spider":"https://raw.iqiq.io/HQD1511/HQD1511/main/20220603cs1.jar",
+"spider":"https://raw.githubusercontents.com/HQD1511/HQD1511/main/20220603cs1.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
 "sites": [    
 {
