@@ -5,11 +5,11 @@
 
 # spider (择一使用👇)
 ## 01.🐼缝合接口
-//"spider":"https://raw.iqiq.io/HQD1511/HQD1511/main/custom_spider.jar",
+//"spider":"https://raw.githubusercontents.com/HQD1511/HQD1511/main/custom_spider.jar",
 ## 02.🐉明接口
-//"spider":"https://raw.iqiq.io/HQD1511/HQD1511/main/xm.jar",
+//"spider":"https://raw.githubusercontents.com/HQD1511/HQD1511/main/xm.jar",
 ## 03.🐱S接口
-"spider":"https://raw.iqiq.io/HQD1511/HQD1511/main/baikan.jar",
+"spider":"https://raw.githubusercontents.com/HQD1511/HQD1511/main/baikan.jar",
 //"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/MaooXB/XBiubiuLA2.jar",
 
 # 直播 (择一使用👇)
@@ -66,18 +66,18 @@
 
 ## 03.🐱S接口
 ## --> spider 改 baikan.jar
-{"key":"360_spider","name":"🐱360(官源)","type":3,"api":"csp_YS360","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/HQD1511/HQD1511/main/360.json"},
-{"key":"2345_spider","name":"🐱2345(官源)","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/HQD1511/HQD1511/main/2345.json"},
-{"key":"sogou_spider","name":"🐱搜狗影视(官源)","type":3,"api":"csp_YSSogou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/HQD1511/HQD1511/main/sogou.json"},
+{"key":"360_spider","name":"🐱360(官源)","type":3,"api":"csp_YS360","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/HQD1511/HQD1511/main/360.json"},
+{"key":"2345_spider","name":"🐱2345(官源)","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/HQD1511/HQD1511/main/2345.json"},
+{"key":"sogou_spider","name":"🐱搜狗影视(官源)","type":3,"api":"csp_YSSogou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/HQD1511/HQD1511/main/sogou.json"},
 {"key":"77_spider","name":"🐱七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"kmys_spider","name":"🐱酷猫(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"epang_spider","name":"🐱阿房(SP)","type":3,"api":"csp_EPangApp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"sd_spider","name":"🐱闪电(SP)","type":3,"api":"csp_Sd","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"ikan_spider","name":"🐱爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq_spider","name":"🐱美剧星球(SP)","type":3,"api":"csp_MjxqApp","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"auete_spider","name":"🐱Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/YuanHsing/OneClickRun/master/MaooXP/Auete.bmp"},
-{"key":"buka_spider","name":"🐱真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/YuanHsing/OneClickRun/master/MaooXP/zhenbuka.bmp"},
-{"key":"ftys_spider","name":"🐱饭团(SP)","type":3,"api":"csp_Ftys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/YuanHsing/OneClickRun/master/MaooXP/fantuan2.json"},
+{"key":"auete_spider","name":"🐱Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/YuanHsing/OneClickRun/master/MaooXP/Auete.bmp"},
+{"key":"buka_spider","name":"🐱真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/YuanHsing/OneClickRun/master/MaooXP/zhenbuka.bmp"},
+{"key":"ftys_spider","name":"🐱饭团(SP)","type":3,"api":"csp_Ftys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/YuanHsing/OneClickRun/master/MaooXP/fantuan2.json"},
 {"key":"优酷视频会员(官源)","name":"优酷视频会员(官源)","type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"畅视影视","name":"首页2022年2月7日精简接口如果资源不可用，请切换“首页数据源”或切换网络","type":1,"api":"http://app.reboju.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {
