@@ -626,16 +626,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-       {
-      "key": "buka_spider",
-      "name": "真不卡(SP)",
-      "type": 3,
-      "api": "csp_Buka",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://raw.staticdn.net/HQD1511/maoTV/main/buka.json"
-    },
+       {"key":"buka_spider","name":"🐱真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.staticdn.net/HQD1511/maoTV/main/buka.json"},
   {
      "key": "csp_xpath_saohuo",
      "name": "骚火(XPath)",
