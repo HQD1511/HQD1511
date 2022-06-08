@@ -370,7 +370,7 @@
       "key": "七七电影",
       "name": "七七电影",
       "type": 0,
-      "api": "https://www.77diany.com/api.php/provide/vod/at/xml",
+      "api": "https://www.77dianying.com//api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch":1,
       "filterable": 0
