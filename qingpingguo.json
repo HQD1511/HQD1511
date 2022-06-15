@@ -1,11 +1,11 @@
 {
   "urls": {
-    "1": "//api.web.360kan.com/v1",
-    "2": "//api.web.360kan.com/v1",
-    "3": "//api.web.360kan.com/v1",
-    "4": "//api.web.360kan.com/v1",
+    "1": "https://www.ipgys.com/vodtype/1.html",
+    "2": "https://www.ipgys.com/vodtype/2.html",
+    "3": "https://www.ipgys.com/vodtype/3.html",
+    "4": "https://www.ipgys.com/vodtype/4.html",
     "recommend": "//api.web.360kan.com/v1/rank?cat=1",
-    "search": "//api.so.360kan.com/index?kw={wd}&pageno=1"
+    "search": "https://www.ipgys.com/vodsearch/-------------.html"
   },
   "classes": [
     { "type_name": "电影", "type_id": "1" },
