@@ -1,5 +1,5 @@
 {
-"spider":"https://raw.staticdn.net/HQD1511/HQD1511/main/baikan.jar",
+"spider":"https://raw.fastgit.org/HQD1511/HQD1511/main/baikan.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9mcmVlZC55dWFuaHNpbmcuY2YvdHYvbGl2ZS50eHQ="]}]}],
 "sites":[
 ## 03.🐱S接口
