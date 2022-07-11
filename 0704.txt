@@ -1,4 +1,4 @@
-##台-新聞##
+台-新聞,#genre#
 民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民視新聞 HD,http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
@@ -69,10 +69,7 @@ TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
 滾動力,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
 Now 直播331台,https://api.leonardpark.dev/live/now/331
 Now 新聞台,http://livetv.dnsfor.me:80/channel.4.m3u8
-##
-
-
-##台-綜合戲劇##
+台-綜合戲劇,#genre#
 公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed
 公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
 民視 HD,http://seb.sason.top/ptv/ftv.php?id=ms
@@ -180,10 +177,7 @@ LiveABC互動英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gt
 豬哥亮歌廳秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
 中天全民最大黨,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
 霹靂布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
-##
-
-
-##台-電影##
+台-電影,#genre#
 東森電影,http://120.84.96.215:808/hls/32/index.m3u8
 東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 星衛電影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
@@ -206,10 +200,7 @@ HBO Signature,http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99
 漫威電影,http://epg.112114.xyz/douyu/4282654
 成龍系列,http://106.53.212.251/daili/yy.php?id=1354888751
 24小時藍光大片,https://epg.pm/stream/f688dc581de111aaa5729f69be8c97651c8288c0f31c34dfa0e1a5be78960989.php
-##
-
-
-##台-人文##
+台-人文,#genre#
 愛爾達生活旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
 中天美食旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
 亞洲旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
@@ -248,9 +239,7 @@ Along,http://tc-tct.douyucdn2.cn/dyliveflv3/10021742rcfxLmzC.flv?wsAuth=2938ca92
 科學旅行號V,http://tc-tct.douyucdn2.cn/dyliveflv3a/9390720rmmUu6ZjP.flv?wsAuth=f8c73b72b1941d3673f52e3afc2144b6&token=cpn-androidmpro-0-9390720-bd0b8773c2206ec4d14ea2b4d1c6f2633c316f814e97e8b3&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
 野人研究院,http://tc-tct.douyucdn2.cn/dyliveflv3/10039437ri3Tk16G.flv?wsAuth=a6c056a06532e15bc948acb00352a737&token=cpn-androidmpro-0-10039437-038c49a12d53e7d00226e98e5456ee877f300b7b7224c7ba&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 直播看地球,https://cn-fjqz-cmcc-v-08.bilivideo.com/live-bvc/174912/live_19193_2186291.m3u8?cdn=cn-gotcha01&expires=1656813016&len=0&oi=3746152197&pt=h5&qn=10000&trid=100358e0f27166074fb2a12873a62d331288&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=d2e023db56094e793c38709ce035db7c&ptype=0&src=57345&sl=1&source=one&sche=ban&sid=19108&sk=d97bfa68429d246673110381db5d92d2&order=4
-##
-
-##台-海外衛視##
+台-海外衛視,#genre#
 東森衛視,https://epg.pm/stream/fa1f8a9f5d354522b55267c1c31655f7051d4429a23f87aac700197ef5273177.m3u8
 東森 AMERICA,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 東森 AMERICA,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
@@ -286,10 +275,7 @@ TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 新唐人三藩市台,http://quality-restream.com:8080/rhaddaoui90/58b4b54325/283593
 新唐人美東台,http://quality-restream.com:8080/rhaddaoui90/58b4b54325/283594
 新唐人美西台,http://quality-restream.com:8080/rhaddaoui90/58b4b54325/283589
-##
-
-
-##台-體育##
+台-體育,#genre#
 緯來體育 HD,rtmp://59.124.75.138/sat/tv721
 緯來體育 HD,rtmp://59.124.75.150/sat/tv721
 緯來體育 HD,http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
@@ -330,9 +316,7 @@ MLB Network,http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137357
 智林體育,https://epg.pm/stream/56086825f7427c66aa93efbbe438295841394cc8b513e711e31c5e701fb3345d.m3u8
 智林體育,https://epg.pm/stream/800d8d5ae1aac4d221f2d486ee9a423b2e52543d2263e9fbb55f3072b9547095.m3u8
 智林體育,https://epg.pm/stream/cfe69386784586f7fdc212b5bedebe73fb482c58c4a5694fc5a8faf4e0a0d6df.m3u8
-##
-
-##音樂##
+音樂,#genre#
 Jay(周杰倫)電台,https://epg.pm/stream/116269fe493f5a5dd8510d3ddcfc3c18e6ddda8c93f76f16f6e5bbd9ab6b8981.php
 The K-POP,https://git.io/JgYAE
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
@@ -370,10 +354,7 @@ Vevo'90s,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94
 Classica,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f779951372da90007fd45e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 CMT Equal Play,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 Live Music Replay,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-##
-
-
-##幼幼&動漫##
+幼幼&動漫,#genre#
 CN卡通頻道,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=md272f875bb6916787346&ct=17874&tsum=0c38bae20c6db7e76ad1418654c8ccd4
 CN卡通頻道,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
 東森幼幼,https://git.io/JgYON
@@ -550,9 +531,7 @@ BabyTV,https://epg.pm/stream/9dce36cc3e922e3baf6b5c9904fc7f43613c75a6e6d0acafe28
 蠟筆小新,https://epg.pm/stream/ce883787d76e7f3bbad8192a900d84b82ff0362ba3c70ef06d4d0af4483ea4ec.m3u8
 蠟筆小新,https://epg.pm/stream/f9dc31ad692f19b6312f4668b2de62f5772bca060b7f10427c0bc56614c62e1e.m3u8
 鐵頭與橘子,http://epg.112114.xyz/douyu/9450942
-##
-
-##台-GOOD TV##
+台-GOOD TV,#genre#
 GOOD TV-1 綜合台,http://live.streamingfast.net/osmflivech1.m3u8
 GOOD TV-10 烤箱讀書會,http://live.streamingfast.net/osmflivech10.m3u8
 GOOD TV-11 我們EYE旅行,http://live.streamingfast.net/osmflivech11.m3u8
@@ -565,10 +544,7 @@ GOOD TV-6,http://live.streamingfast.net/osmflivech6.m3u8
 GOOD TV-7,http://live.streamingfast.net/osmflivech7.m3u8
 GOOD TV-8,http://live.streamingfast.net/osmflivech8.m3u8
 GOOD TV-9 愛+好醫生,http://live.streamingfast.net/osmflivech9.m3u8
-##
-
-
-##網路廣播##
+網路廣播,#genre#
 中廣音樂網,http://stream.rcs.revma.com/ks4vsmg3qtzuv
 中廣新聞網,http://stream.rcs.revma.com/78fm9wyy2tzuv
 中廣流行網,http://stream.rcs.revma.com/aw9uqyxy2tzuv
